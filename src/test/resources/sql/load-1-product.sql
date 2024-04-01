@@ -1,0 +1,1 @@
+INSERT INTO Product (Name, Quantity) VALUES ('Product123', 10);
